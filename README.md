@@ -1,4 +1,5 @@
-<h1> challenge del amigo  secreto  </h>
+<h1 aling=center> 
+  challenge del amigo  secreto  </h>
 <p>
   en este apartado veran el proyecto en el que se trabajo eh implemento javaScript
 </p>
