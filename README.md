@@ -7,7 +7,7 @@
   como se ocupa?
 </h2>
 <p>
-  ## :hammer : el proyecto funciona de la siguiente manera 
+  ## 🔨 : el proyecto funciona de la siguiente manera 
   
     - `paso 1`:para ocuparlo necesitamos agregar los nombres de nuestros amigos en la barra de agregar amigos y damos clic en el boton añadir 
     -`paso 2`:una vez agregados todos los amigos, damos clic en el boton sortear amigos 
